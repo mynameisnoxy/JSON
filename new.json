@@ -1,9 +1,9 @@
 {
-"First name": "Nikita"
-"Last name": "Goremykin"
-"Patronymic": "Andreevich"
-"Age": "25"
-"Pets": "1"
-"Expected salary": "550$"
+	"First name": "Nikita",
+	"Last name": "Goremykin",
+	"Patronymic": "Andreevich",
+	"Age": "25",
+	"Pets": "1",
+	"Expected salary": "550$"
 
 }
